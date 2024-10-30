@@ -3,8 +3,8 @@
 ---
 ### When you are working
 * Work on the YOUR_NAME branch
-* When you are done, from your branch, run `git push origin submission`
-* Then change to your local submission `git checkout submission` and merge your branch into submission `git merge YOUR_NAME`
+* Merge these changes into your local copy of submission `git checkout submission` followed by `git merge YOUR_NAME`
+* When you are done, from the submission branch, run `git push origin submission`
 * Change back to your branch to continue working `git checkout YOUR_NAME`
 ---
 ### When there are changes you want on your machine
