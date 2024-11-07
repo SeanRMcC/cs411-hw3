@@ -130,7 +130,7 @@ class BattleModel:
 
     def prep_combatant(self, combatant_data: Meal):
         """
-        Battles two meals to decide a winner.
+        Adds a meal combatant into the battle list.
 
         Args:
             self: a BattleModel object consisting of a list of Meal objcts.
