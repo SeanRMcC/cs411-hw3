@@ -214,3 +214,5 @@ clear_combatants
 get_leaderboard
 
 clear_catalog
+
+echo "All tests passed successfully!"
